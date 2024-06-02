@@ -4,7 +4,7 @@ This project is built using PHP and SQL. For interface and layout, tailwindcss s
 ensuring a quick and hassle-free booking process. This project is an initial prototype that has the solid foundations necessary for its operation.
 ## Technologies:
 - **Frontend:** HTML,TAILWINDCSS.
-- **Backend:** PHP, SQL.
+- **Backend:** PHP, SQL, MySql.
 
 
 
